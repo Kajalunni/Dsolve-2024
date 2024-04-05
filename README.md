@@ -7,15 +7,16 @@
 Name  
 
 # Team Member
-Member 1 Github Link
+Kajal M  https://github.com/Kajalunni
 
-MEmber 2 Github Link
+Surya S  https://github.com/Suryas2125/journal.git
 
 ## Idea
-Breif Idea in two three sentences 
+We are planning to create a website for college.
 
 ## Features 
-1. 
+1. We will get event updates
+2. Academic related issues.
 
 ## Link to product walkthrough
 [link to video](Link Here)
